@@ -1,0 +1,20 @@
+Collecting jsonschema
+  Obtaining dependency information for jsonschema from https://files.pythonhosted.org/packages/2b/ff/af59fd34bc4d7ac3e6e0cd1f3c10317d329b6c1aee179e8b24ad9a79fbac/jsonschema-4.19.0-py3-none-any.whl.metadata
+  Using cached jsonschema-4.19.0-py3-none-any.whl.metadata (8.2 kB)
+Collecting attrs>=22.2.0 (from jsonschema)
+  Using cached attrs-23.1.0-py3-none-any.whl (61 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema)
+  Obtaining dependency information for jsonschema-specifications>=2023.03.6 from https://files.pythonhosted.org/packages/1c/24/83349ac2189cc2435e84da3f69ba3c97314d3c0622628e55171c6798ed80/jsonschema_specifications-2023.7.1-py3-none-any.whl.metadata
+  Using cached jsonschema_specifications-2023.7.1-py3-none-any.whl.metadata (2.8 kB)
+Collecting referencing>=0.28.4 (from jsonschema)
+  Obtaining dependency information for referencing>=0.28.4 from https://files.pythonhosted.org/packages/be/8e/56d6f1e2d591f4d6cbcba446cac4a1b0dc4f584537e2071d9bcee8eeab6b/referencing-0.30.2-py3-none-any.whl.metadata
+  Using cached referencing-0.30.2-py3-none-any.whl.metadata (2.6 kB)
+Collecting rpds-py>=0.7.1 (from jsonschema)
+  Obtaining dependency information for rpds-py>=0.7.1 from https://files.pythonhosted.org/packages/c6/35/a777ecdf68f7ccb694d960c5b1e853acd7db2a64c4ef37970edc9363396b/rpds_py-0.9.2-cp39-none-win_amd64.whl.metadata
+  Using cached rpds_py-0.9.2-cp39-none-win_amd64.whl.metadata (3.8 kB)
+Using cached jsonschema-4.19.0-py3-none-any.whl (83 kB)
+Using cached jsonschema_specifications-2023.7.1-py3-none-any.whl (17 kB)
+Using cached referencing-0.30.2-py3-none-any.whl (25 kB)
+Using cached rpds_py-0.9.2-cp39-none-win_amd64.whl (180 kB)
+Installing collected packages: rpds-py, attrs, referencing, jsonschema-specifications, jsonschema
+Successfully installed attrs-23.1.0 jsonschema-4.19.0 jsonschema-specifications-2023.7.1 referencing-0.30.2 rpds-py-0.9.2
